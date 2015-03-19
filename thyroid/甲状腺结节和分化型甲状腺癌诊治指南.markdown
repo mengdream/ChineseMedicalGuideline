@@ -1,0 +1,1366 @@
+# 编审委员会
+
+### 主编
+滕卫平 刘永锋 高明 黄钢 
+
+### 副主编
+赵家军 单忠艳 吴毅 蒋宁一 
+
+### 编写委员会(按姓氏拼音排序)
+陈建超 樊友本 高燕明 郭朱明 黄韬 李林 李晓曦 林岩松 陆汉魁 施秉银 孙辉 谭建 王坚 王曙 肖海鹏 徐振纲 张浩
+
+### 审阅委员会(按姓氏拼音排序)
+白耀 陈璐璐 高鑫 葛家璞 葛明华 郭晓蕙 洪天配 匡安仁 李彩萍 李方 李光伟 李亚明 廖二元 刘超 刘志民 母义明 宁 光 邱明才 屈婉莹 田嘉禾 童南伟 王深明 王卫庆 邢家骝 邢小平 严励 张德恒 张永学 曾正陪 朱精强
+
+###秘书 
+关海霞 
+
+# 前言
+
+甲状腺结节和甲状腺癌是内分泌系统的多发病和常见病。触诊获得的甲状腺结节患病率为3-7%,高分辨率B超检查获得的甲状腺结节的患病率为20-76%。甲状腺结节中的甲状腺癌的患病率为5-15%。近年来我国甲状腺癌的发病率呈现增高的趋势,非必要的甲状腺结节的手术率也显著升高。甲状腺癌的术式、放射性碘治疗、TSH抑制疗法和甲状腺癌复发的监测等方面都缺乏共识和规范。
+
+甲状腺结节和甲状腺癌的诊断和治疗涉及内分泌学、头颈外科学、普通外科学、核医学等多个临床学科,是一个典型的跨学科疾病。为了规范我国甲状腺结节和甲状腺癌的诊断和治疗,提高临床治愈率,2011年4月,中华医学会内分泌学分会、中华医学会普通外科学分会、中国抗癌协会头颈肿瘤专业委员会、中华医学会核医学分会决定联合编撰我国首部《甲状腺结节和分化型甲状腺癌诊治指南》。编撰工作历时一年,四个学会共56位专家参加了编写和审阅工作。编写委员会本着“立足国情、循证为本、求新求实、趋同存异”的原则,认真总结了我国甲状腺结节和分化型甲状腺癌诊断治疗的实践经验,充分汲取国际多个指南和国内各个学科现有指南的精华,编撰了这部目前四个学科都能够接受和认可的《指南》。
+
+本指南包括甲状腺结节和分化型甲状腺癌两个章节,采取问题条款和推荐条款并进的模式,共计54项问题条款,72项推荐条款。推荐条款标示推荐强度。内容包括甲状腺结节的良恶性鉴别、细针穿刺活检(FNAB)结果判定、甲状腺结节手术治疗的适应证;分化型甲状腺癌(DTC)甲状腺手术术式的选择和受累淋巴结的处理、TNM分期和复发风险估、131碘清甲治疗的适应证和具体方法、DTC转移的131碘清灶疗法、DTC的TSH抑制疗法、DTC复发的血清Tg浓度的监测等。
+
+编写委员会以2009年美国甲状腺学会(ATA)的《甲状腺结节和分化型甲状腺癌诊治指南》为蓝本,参考了2010年欧洲肿瘤内科学会(ESMO)《甲状腺癌诊治和随访指南》和2010年美国临床内分泌医师协会(AACE)/意大利临床内分泌医师协会(AME)/欧洲甲状腺学会(ETA)《甲状腺结节诊治指南》等权威文献,采用了这些指南提供的丰富的循证医学证据,使得本《指南》能够反映本领域的最新进展和普遍共识。根据甲状腺结节和分化型甲状腺癌基础和临床领域的进展情况,我们将适时修订本指南。
+
+《甲状腺结节和分化型甲状腺癌诊治指南》编写委员会
+2012年8月8日
+
+# 编写注释
+
+| 题目 | 英文名称 |中文名称    
+| - | - | -
+| AJCC | American Joint Committe on Cancer | 美国癌症联合委员会  
+| ATA | American Thyroid Association | 美国甲状腺协会
+| CEA | carcinoembryonic antigen | 癌胚抗原 
+| CT | computed tomography | 计算机断层扫描
+| Ct | calcitonin | 降钙素
+| DTC | differentiated thyroid cancer | 分化型甲状腺癌
+| Dx-WBS | diagnostic whole body scan | 诊断性全身显像
+| ETA | European Thyroid Association | 欧洲甲状腺学会
+| Ft<sub>3</sub> | free triiodothyronine | 游离三碘甲腺原氨酸 
+| Ft<sub>4</sub> | free thyroxine | 游离甲状腺素 
+| FTC | follicular thyroid cancer | 甲状腺滤泡状癌 
+| <sup>18</sup>F-FDG | 2-Deoxy-2-fluoro-D-glucose | 2-氟-2-脱氧-D-葡萄糖 
+| FNAB | fine needle aspiration biopsy | 细针穿刺抽吸活检 
+| L-T<sub>4</sub> | levo-thyroxine | 左甲状腺素 
+| MEN | multiple endocrine neoplasia | 多发性内分泌腺瘤病 
+| MRI | magnetic resonance imaging | 磁共振成像 
+| MTC | medullary thyroid cancer | 甲状腺髓样癌 
+| NIS | sodium iodide symporter | 钠碘协同转运体 
+| OP | osteoporosis | 骨质疏松症 
+| PEI | percutaneous ethanol injection | 经皮无水酒精注射 
+| PET | positron emission tomography | 正电子发射断层成像 
+| PLA | percutaneous laser ablation | 经皮激光消融术
+| PTC | papillary thyroid cancer | 甲状腺乳头状癌
+| QOL | quality of life | 生存质量
+| RAI | radioactive iodine | 放射性碘
+| RFA | radiofrequency ablation | 射频消融
+| rhTSH | recombinant human thyrotropin | 重组人促甲状腺激素
+| Rx-WBS | posttreatment whole body scan | 治疗后全身显像
+| SPECT | single-photon emission computed tomography | 单光子发射计算机断层成像
+| TgAb | thyroglobulin antibody | 甲状腺球蛋白抗体
+| TKI | tyrosine kinase inhibitor | 酪氨酸激酶抑制剂
+| TPOAb | thyroid peroxidase antibody | 甲状腺过氧化物酶抗体
+| TSH | thyroid stimulating hormone | 促甲状腺激素
+| WBS | whole body scan | 全身显像 
+
+
+# 推荐分级
+
+| 强度分级 | 推荐强度涵义 |
+| -- | -- |
+| A | 强力推荐。循证证据肯定,能够改善健康的结局,利大于弊 |
+| B | 推荐。循证证据良好,能够改善健康的结局,利大于弊 |
+| C | 推荐。基于专家意见 |
+| D | 反对推荐。基于专家意见 |
+| E | 反对推荐。循证证据良好,不能改善健康结局或对于健康结局弊大于利 |
+| F | 强力反对推荐。循证医学肯定,不能改善健康结局或对于健康结局弊大于利 |
+| I | 不做推荐或者不作为常规推荐。推荐或反对推荐的循证证据不足、缺乏或结果矛盾,利弊无法评判 |
+
+# 推荐条款
+<table>
+	<thead>
+    <tr>
+        <th width="40px">
+        序号
+        </th>
+        <th>
+        推荐内容
+        </th>
+        <th width="40px">
+        推荐级别
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td colspan="3">
+        一、甲状腺结节
+        </td>
+    </tr>
+        <td>
+        1-1
+        </td>
+        <td>
+        [甲状腺结节的评估要点是良恶性鉴别。][QA1-1]
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-2
+        </td>
+        <td>
+        [所有甲状腺结节患者均应检测血清促甲状腺激素(TSH)水平。][QA1-2]
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-3
+        </td>
+        <td>
+        [不建议用血清甲状腺球蛋白(Tg)来评估甲状腺结节的良恶性。][QA1-3]
+        </td>
+        <td>
+        F
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-4
+        </td>
+        <td>
+        [不建议也不反对在甲状腺结节的良恶性评估中使用血清降钙素(Ct)检测。][QA1-4]
+        </td>
+        <td>
+        I
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-5
+        </td>
+        <td>
+        [所有甲状腺结节患者均应行颈部超声检查。][QA1-5]
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-6
+        </td>
+        <td>
+        超声检查可协助鉴别甲状腺结节的良恶性,鉴别能力与超声医师的临床经验相关。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-7
+        </td>
+        <td>
+        直径>1cm 且伴有血清 TSH 降低的甲状腺结节,应行甲状腺 <sup>131</sup>I 或 <sup>99m</sup>Tc 核素显像, 判断结节是否有自主摄取功能。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-8
+        </td>
+        <td>
+        不建议将 CT、MRI 和 <sup>18</sup>F-FDG PET 作为评估甲状腺结节的常规检查。
+        </td>
+        <td>
+        E
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-9
+        </td>
+        <td>
+        术前评估甲状腺结节良恶性时,细针穿刺抽吸活检(FNAB)是敏感度和特异度最高的方法。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-10
+        </td>
+        <td>
+        超声引导下 FNAB 可以提高取材成功率和诊断准确率。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-11
+        </td>
+        <td>
+        经 FNAB 仍不能确定良恶性的甲状腺结节,可对穿刺标本进行甲状腺癌分子标记物
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-12
+        </td>
+        <td>
+        多数甲状腺良性结节的随访间隔为 6-12 个月;暂未接受治疗的可疑恶性或恶性结 节,可以缩短随访间隔。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-13
+        </td>
+        <td>
+        体积增大超过 50%的甲状腺结节,是 FNAB 的适应证。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-14
+        </td>
+        <td>
+        符合手术适应证的良性甲状腺结节患者可选择手术治疗。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-15
+        </td>
+        <td>
+        手术治疗良性甲状腺结节后如发生甲状腺功能减退(甲减),应及时给予左甲状腺素(L-T4)替代治疗。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-16
+        </td>
+        <td>
+        良性甲状腺结节术后,不建议用 TSH 抑制治疗来预防结节再发。
+        </td>
+        <td>
+        E
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-17
+        </td>
+        <td>
+        不建议常规使用非手术方法治疗良性甲状腺结节,包括 TSH 抑制治疗、<sup>131</sup>I 治疗、超声引导下经皮无水酒精注射(PEI)、经皮激光消融术(PLA)和射频消融(RFA)。
+        </td>
+        <td>
+        E
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-18
+        </td>
+        <td>
+        <sup>131</sup>I 主要用于治疗具有自主摄取功能并伴有甲状腺功能亢进症(甲亢)的良性甲状腺结节。妊娠和哺乳期禁忌 <sup>131</sup>I 治疗。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-19
+        </td>
+        <td>
+        如 <sup>131</sup>I 治疗 4-6 个月后甲亢仍未缓解、结节无缩小,应结合患者的临床表现、相关实验室检查结果和甲状腺核素显像复查情况,考虑再次给予 <sup>131</sup>I 治疗或采取其他治 疗方法。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-20
+        </td>
+        <td>
+        <sup>131</sup>I 治疗良性甲状腺结节后如发生甲减,应及时给予 L-T<sub>4</sub> 替代治疗。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-21
+        </td>
+        <td>
+        对儿童甲状腺结节患者的评估和治疗,与成年患者基本一致。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-22
+        </td>
+        <td>
+        儿童甲状腺结节中的“热结节”也要进一步评估。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        1-23
+        </td>
+        <td>
+        甲状腺结节患儿如有 MTC 或 MEN2 型的家族史,建议进行 RET 基因突变检测。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" >
+        二、分化型甲状腺癌（DTC）
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-1
+        </td>
+        <td>
+        DTC 手术中,选择性应用全/近全甲状腺切除术或甲状腺腺叶+峡部切除术。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-2
+        </td>
+        <td>
+        DTC 术中在有效保留甲状旁腺和喉返神经情况下,行病灶同侧中央区淋巴结清扫术。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-3
+        </td>
+        <td>
+        DTC 术中在有效保留甲状旁腺和喉返神经情况下,行病灶同侧中央区淋巴结清扫术。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-3
+        </td>
+        <td>
+        对临床颈部非中央区淋巴结转移(cN1b)的 DTC 患者,行侧颈区淋巴结清扫术。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-4
+        </td>
+        <td>
+        对部分临床颈部中央区淋巴结转移(cN1a)的 DTC 患者,行择区性颈淋巴结清扫术。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-5
+        </td>
+        <td>
+        对所有 DTC 患者均应进行术后 AJCC TNM 分期和复发危险度低、中、高危分层,以助于预测患者预后、指导个体化的术后治疗和随访方案、交流患者医疗信息。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-6
+        </td>
+        <td>
+        按照良性甲状腺疾病手术、但术后病理诊断为 DTC 者,应根据肿瘤的 TNM 分期和复发危险度分层、再次手术的风险、随访的便利性、患者的意愿和依从性等因素,进行综合分析,确定是否再次手术。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-7
+        </td>
+        <td>
+        DTC 手术后,选择性应用 <sup>131</sup>I 清甲治疗。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-8
+        </td>
+        <td>
+        妊娠期、哺乳期、计划短期(6个月)内妊娠者和无法依从辐射防护指导者,禁忌进行 <sup>131</sup>I 清甲治疗。
+        </td>
+        <td>
+        F
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-9
+        </td>
+        <td>
+        <sup>131</sup>I 清甲治疗前评估发现有再次手术指证者,应先行手术治疗;仅在患者有再次手术的禁忌证或拒绝再次手术时,可考虑直接进行清甲治疗。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-10
+        </td>
+        <td>
+        清甲治疗前,停用 L-T<sub>4</sub> 至少 2-3 周或使用重组人 TSH(rhTSH),使血清 TSH 升高 至>30mU/L。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-11
+        </td>
+        <td>
+        不建议也不反对进行清甲治疗前的诊断性全身核素显像(Dx-WBS)。
+        </td>
+        <td>
+        I
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-12
+        </td>
+        <td>
+        <sup>131</sup>I 清甲治疗前低碘饮食(<50μ g/d)至少 1-2 周,避免应用含碘造影剂和药物(如胺碘酮等)。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-13
+        </td>
+        <td>
+        <sup>131</sup>I 清甲治疗前对患者进行辐射安全防护指导。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-14
+        </td>
+        <td>
+        非高危 DTC 患者清甲治疗的 <sup>131</sup>I 剂量为 1.11-3.7GBq (30-100mCi)。
+        </td>
+        <td>
+        B
+        </td>
+    </tr> 
+    <tr>
+        <td>
+        2-15
+        </td>
+        <td>
+        中、高危 DTC 患者兼顾清灶目的时,清甲治疗的 <sup>131</sup>I 剂量为 3.7-7.4GBq(100-200mCi) <sup>131</sup>I。
+        </td>
+        <td>
+        C
+        </td>
+    </tr> 
+    <tr>
+        <td>
+        2-16
+        </td>
+        <td>
+        <sup>131</sup>I 清甲治疗后出现的短期副作用多可自行缓解,无需特殊处置。
+        </td>
+        <td>
+        B
+        </td>
+    </tr> 
+    <tr>
+        <td>
+        2-17
+        </td>
+        <td>
+        <sup>131</sup>I 清甲治疗后 2-10 天之间应进行治疗后 WBS(Rx-WBS)检查。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>     
+    <tr>
+        <td>
+        2-18
+        </td>
+        <td>
+        DTC 患者 <sup>131</sup>I 清甲治疗后 24-72h 内开始(或继续)L-T<sub>4</sub> 治疗。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-19
+        </td>
+        <td>
+        对无法手术切除的摄碘性 DTC 转移灶,可选择性应用 <sup>131</sup>I 清灶治疗。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-20
+        </td>
+        <td>
+        首次 <sup>131</sup>I 清灶治疗应在 <sup>131</sup>I 清甲后至少 3 个月后进行。重复清灶治疗宜间隔 4-8 个月。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-21
+        </td>
+        <td>
+        单次 <sup>131</sup>I 清灶治疗的经验剂量为 3.7-7.4GBq(100-200mCi)。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-22
+        </td>
+        <td>
+        尚无 <sup>131</sup>I 治疗剂量(包括单次剂量和累积剂量)的明确上限,但随 131I 治疗次数增多和 <sup>131</sup>I 累积剂量加大,辐射副作用的风险增高
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-23
+        </td>
+        <td>
+        女性 DTC 患者在 <sup>131</sup>I 治疗后 6-12 个月内避免妊娠。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-24
+        </td>
+        <td>
+        DTC 患者术后应及时给予 TSH 抑制治疗。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-25
+        </td>
+        <td>
+        DTC 术后 TSH 抑制治疗首选 L-T4 口服制剂。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-26
+        </td>
+        <td>
+        基于 DTC 患者的肿瘤复发危险度和 TSH 抑制治疗的副作用风险,设立 DTC 患者术后 TSH 抑制治疗的个体化目标。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-26
+        </td>
+        <td>
+        TSH 抑制治疗的 L-T<sub>4</sub> 剂量需根据 TSH 抑制目标调整,存在个体差异。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-28
+        </td>
+        <td>
+        L-T<sub>4</sub> 的起始剂量因患者年龄和伴发疾病情况而异。L-T<sub>4</sub> 应当清晨空腹顿服。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-29
+        </td>
+        <td>
+        L-T<sub>4</sub> 剂量调整期间,每 4 周左右测定血清 TSH。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-30
+        </td>
+        <td>
+        对需要将 TSH 抑制到低于 TSH 正常参考范围下限的 DTC 患者,评估治疗前基础骨矿化状态并定期监测。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-31
+        </td>
+        <td>
+        绝经后女性 DTC 者在 TSH 抑制治疗期间应接受骨质疏松症(OP)初级预防;达到 OP 诊断标准者,启动正规抗 OP 治疗。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-32
+        </td>
+        <td>
+        对需要将 TSH 抑制到低于 TSH 正常参考范围下限的 DTC 患者,评估治疗前基础心脏情况并定期监测。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-33
+        </td>
+        <td>
+        TSH 抑制治疗期间,可选择性应用 β 受体阻滞剂预防心血管系统副作用。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-34
+        </td>
+        <td>
+        不建议在 DTC 治疗中常规使用外照射治疗或化学治疗。
+        </td>
+        <td>
+        F
+        </td>
+    </tr> 
+    <tr>
+        <td>
+        2-35
+        </td>
+        <td>
+        在常规治疗无效且处于进展状态的晚期 DTC 患者中,可以考虑使用新型靶向药物治疗。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-36
+        </td>
+        <td>
+        对 DTC 患者应当进行长期随访。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-37
+        </td>
+        <td>
+        对已清除全部甲状腺的 DTC 患者,随访血清 Tg 变化是判别患者是否存在肿瘤残留或复发的重要手段。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-38
+        </td>
+        <td>
+        随访血清 Tg 应采用同种检测试剂,每次测定血清 Tg 时均应同时检测 TgAb。
+        </td>
+        <td>
+        A
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-39
+        </td>
+        <td>
+        随访期间可根据 DTC 患者的复发危险度,选择性应用血清基础 Tg(TSH 抑制状态下) 或 TSH 刺激后(TSH > 30mU/L)的 Tg 检测。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-40
+        </td>
+        <td>
+        对已清除全部甲状腺的 DTC 患者,提示其无病生存的 Tg 切点值可设定为: 基础 Tg (TSH 抑制状态下)1ng/mL;TSH 刺激后(TSH > 30mU/L)的 Tg 2ng/mL。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-41
+        </td>
+        <td>
+        未完全切除甲状腺的 DTC 患者,术后每 6 个月检测血清 Tg(同时检测 TgAb)。对 Tg 有持续升高趋势者,应考虑甲状腺组织或肿瘤生长,需结合颈部超声等其他检查进一步评估。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-42
+        </td>
+        <td>
+        DTC 随访期间应定期(间隔 3-12 个月)进行颈部超声检查。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-43
+        </td>
+        <td>
+        对可疑淋巴结可行穿刺活检和/或穿刺针冲洗液的 Tg 检测。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-44
+        </td>
+        <td>
+        对已清除全部甲状腺的 DTC 患者,可在随访中根据复发危险度,选择性应用 Dx-WBS。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-45
+        </td>
+        <td>
+        不建议在 DTC 随访中常规使用 <sup>18</sup>F-FDG PET、CT 或 MRI 检查。
+        </td>
+        <td>
+        E
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-46
+        </td>
+        <td>
+        DTC 的长期随访内容中,应纳入 <sup>131</sup>I 治疗的长期安全性、TSH 抑制治疗效果和某些伴发疾病(如心脏疾病、其他恶性肿瘤等)的病情变化。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-47
+        </td>
+        <td>
+       针对 DTC 复发或转移病灶,可选择的治疗方案依次为:手术切除(可能通过手术治 愈者)、<sup>131</sup>I 治疗(病灶可以摄碘者)、外放射治疗、TSH 抑制治疗情况下观察(肿瘤无进展或进展较慢,并且无症状、无重要区域如中枢神经系统等受累者)、化学治疗和新型靶向药物治疗(疾病迅速进展的难治性 DTC 患者)。
+        </td>
+        <td>
+        B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-48
+        </td>
+        <td>
+       甲状腺已完全清除的 DTC 患者,如在随访中血清 Tg 水平持续增高(>10ng/mL)、但影像学检查未发现病灶,可经验性给予 3.7-7.4GBq(100-200mCi) <sup>131</sup>I 治疗;如治疗后 Rx-WBS 发现 DTC 病灶或血清 Tg 水平减低,可重复 <sup>131</sup>I 治疗,否则应停止 <sup>131</sup>I 治疗,以 TSH 抑制治疗为主。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    <tr>
+        <td>
+        2-49
+        </td>
+        <td>
+       应根据随访过程中获得的新数据,建立 DTC 的动态危险度评估模式,并积极探索评估时需纳入的参数、评估间隔时间和后续的处理方案。
+        </td>
+        <td>
+        C
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+
+## 一、甲状腺结节
+
+### 问题1. 甲状腺结节的定义
+甲状腺结节是指甲状腺细胞在局部异常生长所引起的散在病变[^1]。虽能触及、但在超声检查中未能证实的“结节”,不能诊断为甲状腺结节。体检未能触及、而在影像学检查偶然发现的结节称作“甲状腺意外结节”[^2]。
+
+### 问题2. 甲状腺结节的患病率
+甲状腺结节很常见。一般人群中通过触诊的检出率为 3% -7%,借助高分辨率超声的检出率可高达 20%-
+76% [^3]。
+
+### 问题3. 甲状腺结节的评估要点
+5%-15%的甲状腺结节为恶性,即甲状腺癌[^2]。良恶性甲状腺结节的临床处理不同,对患者生存质量(quality of life, QOL)的影响和涉及的医疗花费也有显著差异。因此,甲状腺结节评估的要点是良恶性鉴别。
+
+####  推荐1-1:甲状腺结节的评估要点是良恶性鉴别。(推荐级别 A) [QA1-1] 
+
+### 问题4. 甲状腺结节的临床表现
+大多数甲状腺结节患者没有临床症状。合并甲状腺功能异常时,可出现相应的临床表现。部分患者由于结节压迫周围组织,出现声音嘶哑、压气感、呼吸/吞咽困难等压迫症状。 下述病史和体格检查结果是甲状腺癌的危险因素[^4]:
+1. 童年期头颈部放射线照射史或放射性尘埃接触史;
+2. 全身放射治疗史;
+3. 有分化型甲状腺癌(differentiated thyroid cancer, DTC)、甲状腺髓样癌(medullary thyroid cancer, MTC)或多发性内分泌腺瘤病 2 型(MEN2 型)、家族性多发性息肉病、某些甲状腺癌综合征 (如 Cowden 综合征、Carney 综合征、Werner 综合征和 Gardner 综合征等)的既往史或家族史;
+4. 男性; 
+5. 结节生长迅速;
+6. 伴持续性声音嘶哑、发音困难,并可排除声带病变(炎症、息肉等);
+7. 伴吞咽困难 或呼吸困难;
+8. 结节形状不规则、与周围组织粘连固定;
+9. 伴颈部淋巴结病理性肿大。
+
+### 问题5. 甲状腺结节的实验室检查
+所有甲状腺结节患者均应检测血清促甲状腺激素(TSH)水平。研究显示,甲状腺结节患者如伴有 TSH 水平低于正常,其结节为恶性的比例低于伴有 TSH 水平正常或升高者[^5] [^6]。
+
+甲状腺球蛋白(Tg)是甲状腺产生的特异性蛋白,由甲状腺滤泡上皮细胞分泌。多种甲状腺疾病均可引起血清 Tg 水平升高[^7],包括 DTC、甲状腺肿、甲状腺组织炎症或损伤、甲状腺功能亢进症(甲亢)等, 因此血清 Tg 不能鉴别甲状腺结节的良恶性。
+
+降钙素(Ct)由甲状腺滤泡旁细胞(C细胞)分泌。血清 Ct >100pg/mL 提示甲状腺髓样癌(MTC)[^8]。 但是,MTC 的发病率低,血清 Ct 升高但不足 100ng/mL 时,诊断 MTC 的特异性较低[^9],因此不建议也不反对应用血清 Ct 指标筛查 MTC。
+
+#### 推荐1-2:所有甲状腺结节患者均应检测血清 TSH 水平。(推荐级别 A) [QA1-2]
+
+#### 推荐1-3:不建议用血清 Tg 来评估甲状腺结节的良恶性。(推荐级别 F) [QA1-3]
+
+#### 推荐1-4:不建议也不反对在甲状腺结节的良恶性评估中使用血清 Ct 检测。(推荐级别 I) [QA1-4]
+
+### 问题6. 超声检查在甲状腺结节评估中的作用
+高分辨率超声检查是评估甲状腺结节的首选方法[^10]。对触诊怀疑,或是在 X 线、计算机断层扫描(CT)、磁共振成像(MRI)或 2-氟-2-脱氧-D-葡萄糖(<sup>18</sup>F-FDG)正电子发射断层成像(PET)检查中提示的“甲状腺结节”,均应行颈部超声检查。颈部超声可证实“甲状腺结节”是否真正存在,确定甲状腺结节的大小、 数量、位置、质地(实性或囊性)、形状、边界、包膜、钙化、血供和与周围组织的关系等情况,同时评估颈部区域有无淋巴结和淋巴结的大小、形态和结构特点。
+
+某些超声征象有助于甲状腺结节的良恶性鉴别。下述两种超声改变的甲状腺结节几乎全部为良性[^11]: 
+1. 纯囊性结节;
+2. 由多个小囊泡占据50%以上结节体积、呈海绵状改变的结节,99.7%为良性。
+
+而以下超声征象提示甲状腺癌的可能性大[^12] [^13]:
+1. 实性低回声结节;
+2. 结节内血供丰富(TSH 正常情况下);
+3. 结节形态和边缘不规则、晕圈缺如;
+4. 微小钙化、针尖样弥散分布或簇状分布的钙化;
+5. 同时伴有颈部淋巴结超声影像异常,如淋巴结呈圆形、边界不规则或模糊、内部回声不均、内部出现钙化、皮髓质分界不清、 淋巴门消失或囊性变等。
+
+通过超声检查鉴别甲状腺结节良恶性的能力与超声医师的临床经验相关。
+
+近年来,弹性超声和甲状腺超声造影技术在评估甲状腺结节中的应用日益增多,其临床价值有待进一步研究[^14]。
+
+#### 推荐1-5:所有甲状腺结节患者均应行颈部超声检查。(推荐级别 A) [QA1-5]
+
+#### 推荐1-6:超声检查可协助鉴别甲状腺结节的良恶性,鉴别能力与超声医师的临床经验相关。(推荐级别 C)
+
+### 问题 7. 甲状腺核素显像在甲状腺结节评估中的作用
+受显像仪分辨率所限,甲状腺核素显像适用于评估直径>1cm 的甲状腺结节。在单个(或多个)结节伴有血清 TSH 降低时,甲状腺 <sup>131</sup>I 或 <sup>99m</sup>Tc 核素显像可判断某个(或某些)结节是否有自主摄取功能(“热 结节”)。“热结节”绝大部分为良性,一般不需细针穿刺抽吸活检(fine needle aspiration biopsy, FNAB)[^2] [^3] [^15]。
+
+#### 推荐1-7:直径>1cm 且伴有血清 TSH 降低的甲状腺结节,应行甲状腺 <sup>131</sup>I 或 <sup>99m</sup>Tc 核素显像,判断结节是 否有自主摄取功能。(推荐级别 A)
+
+### 问题 8. 其他影像学手段在甲状腺结节评估中的作用
+在评估甲状腺结节良恶性方面,CT 和 MRI 检查不优于超声[^16]。拟行手术治疗的甲状腺结节,术前可行颈部 CT 或 MRI 检查,显示结节与周围解剖结构的关系,寻找可疑淋巴结,协助制定手术方案。为了不影响术后可能进行的 <sup>131</sup>I 显像检查和 <sup>131</sup>I 治疗,CT 检查中应尽量避免使用含碘造影剂。
+
+<sup>18</sup>F-FDG PET 显像能够反映甲状腺结节摄取和代谢葡萄糖的状态。并非所有的甲状腺恶性结节都能在 <sup>18</sup>F-FDG PET 中表现为阳性,而某些良性结节也会摄取 <sup>18</sup>F-FDG[^17],因此单纯依靠 <sup>18</sup>F-FDG PET 显像不能准确鉴别甲状腺结节的良恶性。
+
+#### 推荐1-8：不建议将CT、MRI和<sup>18</sup>F-FDG PET作为评估甲状腺结节的常规检查。（推荐级别E）
+
+### 问题9. 细针穿刺抽吸活检（FNAB）在甲状腺结节评估中的作用
+术前通过FNAB诊断甲状腺癌的敏感度为83%（65-98%），特异度为92%（72-100%），阳性预测率为75%（50-96%），假阴性率为5%（1-11%），假阳性率为5%（0-7%）[^18]。FNAB不能区分甲状腺滤泡状癌和滤泡细胞腺瘤。术前FNAB检查有助于减少不必要的甲状腺结节手术，并帮助确定恰当的手术方案。
+
+凡直径>1cm的甲状腺结节，均可考虑FNAB检查。但在下述情况下，FNAB不作为常规：
+1. 经甲状腺核素显像证实为有自主摄取功能的“热结节”[^19]；
+2. 超声提示为纯囊性的结节；
+3. 根据超声影像已高度怀疑为恶性的结节。
+
+直径<1cm的甲状腺结节，不推荐常规行FNAB。但如存在下述情况，可考虑超声引导下FNAB[^20]：
+1. 超声提示结节有恶性征象；
+2. 伴颈部淋巴结超声影像异常；
+3. 童年期有颈部放射线照射史或辐射污染接触史；
+4. 有甲状腺癌或甲状腺癌综合征的病史或家族史；
+5. <sup>18</sup>F-FDG PET显像阳性；
+6. 伴血清Ct水平异常升高。
+
+与触诊下FNAB相比，超声引导下FNAB的取材成功率和诊断准确率更高[^21] [^22]。为提高FNAB的准确性，可采取下列方法：
+* 在同一结节的多个部位重复穿刺取材；
+* 在超声提示可疑征象的部位取材；
+* 在囊实性结节的实性部位取材，同时进行囊液细胞学检查。
+
+此外，经验丰富的操作者和细胞病理诊断医师也是保证FNAB成功率和诊断准确性的重要环节。
+
+根据国际相关标准[^23]和国内相关报道，本指南建议在判定FNAB结果方面采用以下分类（表1）。
+
+| FNAB结果 | 结节为恶性的可能性 | 可能的病变类型 | 
+| :-----: | :----: | :----: |
+| 取材无法诊断或不满意 | 1-4% | 细胞成分太少或仅为炎性成分 | 
+| 良性 | 0-3% | 胶质结节、桥本甲状腺炎、亚急性甲状腺炎或囊性病变等 |
+| 不确定 | 5-30% | 细胞增生较活跃或滤泡性病变 |
+| 可疑恶性 | 60-75% | 可疑乳头状癌、髓样癌、转移癌或淋巴瘤 |
+| 恶性 | 97-99% | 乳头状癌、髓样癌、转移癌或淋巴瘤 |
+[表1 FNAB结果判定]
+
+#### 推荐1-9：术前评估甲状腺结节良恶性时，FNAB是敏感度和特异度最高的方法。（推荐级别A）
+
+#### 推荐1-10：超声引导下FNAB可以提高取材成功率和诊断准确率。（推荐级别B）
+
+### 问题10. 协助评估甲状腺结节良恶性的其他方法
+前瞻性研究证实：经FNAB仍不能确定良恶性的甲状腺结节，对穿刺标本进行某些甲状腺癌的分子标记物检测，例如BRAF突变、Ras突变、RET/PTC重排等，能够提高确诊率[^24]。检测术前穿刺标本的BRAF突变状况，还有助于甲状腺乳头状癌（papillary thyroid cancer, PTC）的诊断和临床预后预测，便于制定个体化的诊治方案[^25] [^26]。
+
+#### 推荐1-11：经FNAB仍不能确定良恶性的甲状腺结节，可对穿刺标本进行甲状腺癌分子标记物（如BRAF突变、Ras突变、RET/PTC重排等）检测。（推荐级别C）
+
+### 问题11. 甲状腺结节的随访
+对甲状腺结节的最佳随访频度缺乏有力证据。对多数甲状腺良性结节，可每隔6-12个月进行随访。对暂未接受治疗的可疑恶性或恶性结节，随访间隔可缩短。每次随访必须进行病史采集和体格检查，并复查颈部超声。部分患者（初次评估中发现甲状腺功能异常者，接受手术、TSH抑制治疗或131I治疗者）还需随访甲状腺功能。
+
+如随访中发现结节明显生长，要特别注意是否伴有提示结节恶变的症状、体征（如声音嘶哑、呼吸/吞咽困难、结节固定、颈部淋巴结肿大等）和超声征象。“明显生长”指结节体积增大50%以上，或至少有2条径线增加超过20%（并且超过2mm），这时有FNAB的适应证[^27]；对囊实性结节来说，根据实性部分的生长情况决定是否进行FNAB。
+
+#### 推荐1-12：多数甲状腺良性结节的随访间隔为6-12个月；暂未接受治疗的可疑恶性或恶性结节，可以缩短随访间隔。（推荐级别C）
+
+#### 推荐1-13：体积增大超过50%的甲状腺结节，是FNAB的适应证。（推荐级别B）
+
+### 问题12. 良性甲状腺结节的治疗方法
+多数良性甲状腺结节仅需定期随访，无需特殊治疗。少数情况下，可选择手术治疗、TSH抑制治疗、放射性碘（radioiodine, RAI）即<sup>131</sup>I治疗，或者其他治疗手段。
+
+### 问题13. 良性甲状腺结节的手术治疗
+下述情况下，可考虑手术治疗甲状腺结节[^4]：
+1. 出现与结节明显相关的局部压迫症状；
+2. 合并甲状腺功能亢进，内科治疗无效者；
+3. 肿物位于胸骨后或纵隔内；
+4. 结节进行性生长，临床考虑有恶变倾向或合并甲状腺癌高危因素。
+
+因外观或思想顾虑过重影响正常生活而强烈要求手术者，可作为手术的相对适应证。
+
+良性甲状腺结节的手术原则为：在彻底切除甲状腺结节的同时，尽量保留正常甲状腺组织。建议慎重使用全/近全甲状腺切除术式。后者的适应证为：结节弥漫性分布于双侧甲状腺，导致术中难以保留较多正常甲状腺组织。术中应注意保护甲状旁腺和喉返神经。
+
+内镜甲状腺手术因其良好的术后外观效果，可作为良性甲状腺结节的手术手段之一。手术径路包括胸骨切迹上径路、锁骨下径路、前胸壁径路、腋窝径路和其他径路。建议选择手术径路时，应尽量减少创伤，并且避免非I类切口入路。
+
+手术治疗后，应观察手术并发症（如出血、感染、喉返神经损伤、甲状旁腺损伤等）的发生情况。如果术者有丰富的甲状腺手术经验（年甲状腺手术量超过100例），并发症的发生率会明显降低。由于切除了部分或全部甲状腺组织，患者术后有可能发生不同程度的甲状腺功能减退（甲减），伴有高滴度甲状腺过氧化物酶抗体（TPOAb）和/或甲状腺球蛋白抗体（TgAb）者更易发生甲减。接受甲状腺全切术者，术后即应开始左甲状腺素（L-T<sub>4</sub>）替代治疗，此后定期监测甲状腺功能，保持TSH水平在正常范围；保留部分甲状腺者，术后也应定期监测甲状腺功能（首次检测时间为术后1个月），如监测中发现甲减，要及时给予L-T<sub>4</sub>替代治疗。良性甲状腺结节术后，不建议采用TSH抑制治疗来预防结节再发[^28]。
+
+#### 推荐1-14：符合手术适应证的良性甲状腺结节患者可选择手术治疗。（推荐级别B）
+
+#### 推荐1-15：手术治疗良性甲状腺结节后如发生甲减，应及时给予L-T<sub>4</sub>替代治疗。（推荐级别A）
+
+#### 推荐1-16：良性甲状腺结节术后，不建议用TSH抑制治疗来预防结节再发。（推荐级别E）
+
+### 问题14. 良性甲状腺结节的非手术治疗
+TSH抑制治疗的原理是：应用L-T<sub>4</sub>将血清TSH水平抑制到正常低限甚至低限以下，以求通过抑制TSH对甲状腺细胞的促生长作用，达到缩小甲状腺结节的目的。疗效方面：在碘缺乏地区，TSH抑制治疗可能有助于缩小结节、预防新结节出现、缩小结节性甲状腺肿的体积；在非缺碘地区，TSH抑制治疗虽也可能缩小结节，但其长期疗效不确切，停药后可能出现结节再生长；TSH部分抑制方案（TSH控制于正常范围下限，即0.4-0.6mU/L）与TSH完全抑制方案（TSH控制于< 0.1mU/L）相比，减小结节体积的效能相似[^29] [^30] [^31]。副作用方面：长期抑制TSH可导致亚临床甲亢（TSH降低，FT<sub>3</sub>和FT<sub>4</sub>正常），引发不适症状和一些不良反应（如心率增快、心房颤动、左心室增大、心肌收缩性增加、舒张功能受损等），造成绝经后妇女的骨密度（BMD）降低[^32]。权衡利弊，不建议常规使用TSH抑制疗法治疗良性甲状腺结节；可在小结节性甲状腺肿的年轻患者中考虑采用；如要使用，目标为TSH部分抑制。
+
+<sup>131</sup>I主要用于治疗有自主摄取功能并伴有甲亢的良性甲状腺结节。对虽有自主摄取功能但不伴甲亢的结节，<sup>131</sup>I可作为治疗选择之一。出现压迫症状或位于胸骨后的甲状腺结节，不推荐<sup>131</sup>I治疗。处于妊娠期或哺乳期是<sup>131</sup>I治疗的绝对禁忌证。疗效方面：<sup>131</sup>I治疗后2-3月，有自主功能的结节可逐渐缩小，甲状腺体积平均减少40%；伴有甲亢者在结节缩小的同时，甲亢症状、体征和相关并发症可逐渐改善，甲状腺功能指标可逐渐恢复正常[^33]。如<sup>131</sup>I治疗4-6个月后甲亢仍未缓解、结节无缩小，应结合患者的临床表现、相关实验室检查和甲状腺核素显像复查结果，考虑再次予<sup>131</sup>I治疗或采取其他治疗方法[^34]。<sup>131</sup>I治疗后，约10%的患者于5年内发生甲减，随时间延长甲减发生率逐渐增加。因此，建议治疗后每年至少检测一次甲状腺功能，如监测中发现甲减，要及时给予L-T<sub>4</sub>替代治疗。
+
+其他治疗良性甲状腺结节的非手术方法包括[^3]：超声引导下经皮无水酒精注射（percutaneous ethanol injection, PEI）、经皮激光消融术（percutaneous laser ablation, PLA）和射频消融（radiofrequency ablation, RFA）等。其中，PEI对甲状腺良性囊肿和含有大量液体的甲状腺结节有效，不适用于单发实质性结节或多结节性甲状腺肿。采用这些方法治疗前，必须先排除恶性结节的可能性。
+
+#### 推荐1-17：不建议常规使用非手术方法治疗良性甲状腺结节，包括TSH抑制治疗、<sup>131</sup>I治疗、PEI、PLA和RFA。（推荐级别E）
+
+#### 推荐1-18：<sup>131</sup>I主要用于治疗具有自主摄取功能并伴有甲亢的良性甲状腺结节。妊娠和哺乳期禁忌<sup>131</sup>I治疗。（推荐级别A）
+
+#### 推荐1-19：如<sup>131</sup>I治疗4-6个月后甲亢仍未缓解、结节无缩小，应结合患者的临床表现、相关实验室检查结果和甲状腺核素显像复查情况，考虑再次给予<sup>131</sup>I治疗或采取其他治疗方法。（推荐级别B）
+
+#### 推荐1-20：<sup>131</sup>I治疗良性甲状腺结节后如发生甲减，应及时给予L-T<sub>4</sub>替代治疗。（推荐级别A）
+
+### 问题15. 儿童甲状腺结节的处理
+儿童甲状腺结节的患病率低于成人。美国儿童（触诊诊断）甲状腺结节的患病率约为2%，年发病率约7‰[^35]。国内报道儿童（超声诊断）甲状腺结节的患病率为7.04%，多发结节占66.7%，男女比为1:1.4[^36]。
+
+儿童的甲状腺恶性结节多为DTC，另有约5%为MTC。10岁以上的患儿中，女性甲状腺癌的发病率高于男性[^37]。
+
+对儿童甲状腺结节的评估，包括病史采集、体格检查、实验室指标检测、影像学检查和FNAB，均与成年患者基本相同。FNAB诊断儿童甲状腺癌的敏感性为86-100%，特异性为65-90%。对儿童甲状腺结节的治疗，也与成年患者基本相同。手术是儿童甲状腺恶性/可疑恶性结节的主要治疗手段。[^2] [^3]
+
+对儿童甲状腺结节的诊治处理，在下述几个方面与成年患者有所不同：
+1. 慎行颈部CT检查，因为大剂量的放射线暴露可能增加儿童甲状腺结节的恶变几率。
+2. 儿童甲状腺结节中，恶性结节的比例高于成人，可高达20%左右[^38]，经甲状腺核素显像证实的“热结节”也存在恶性风险。因此，对儿童的“热结节”要进一步评估。
+3. 儿童的恶性结节通常为多病灶，且伴有淋巴结转移、甚至远处转移的几率更高[^39] [^40]。因此，较大比例的DTC患儿治疗上宜选择全或近全甲状腺切除术、术后进行131I治疗。
+4. 甲状腺结节患儿如有MTC或MEN2型的家族史，建议进行RET基因突变检测[^41]。突变阳性者，MTC发病率显著增高。此类患者应行预防性全甲状腺切除，切除的年龄视MTC发病风险的高低（根据RET基因突变位点评估）而定。
+5. 儿童恶性甲状腺结节即便伴有转移，仍有较好的预后[^39] [^40]。DTC的长期生存率超过90%；MTC的5年和15年生存率均超过85%，但30年生存率较低（约15%）。儿童甲状腺癌的复发率约为10-35%。
+
+
+#### 推荐1-21：对儿童甲状腺结节患者的评估和治疗，与成年患者基本一致。（推荐级别A）
+
+#### 推荐1-22：儿童甲状腺结节中的“热结节”也要进一步评估。（推荐级别B）
+
+#### 推荐1-23：甲状腺结节患儿如有MTC或MEN2型的家族史，建议进行RET基因突变检测。（推荐级别A）
+
+### 问题16. 妊娠妇女甲状腺结节的处理
+参见《妊娠与产后甲状腺疾病诊治指南》 。
+
+### 问题17. 甲状腺结节的临床评估和处理流程
+见图1。
+
+## 二、分化型甲状腺癌（DTC）
+
+### 问题18. DTC概述
+超过90%的甲状腺癌为DTC。DTC起源于甲状腺滤泡上皮细胞，主要包括PTC和甲状腺滤泡状癌（follicular thyroid carcinoma, FTC），少数为Hǔrthle细胞或嗜酸性细胞肿瘤。大部分DTC进展缓慢，近似良性病程，10年生存率很高，但某些组织学亚型（PTC的高细胞型、柱状细胞型、弥漫硬化型、实体亚型和FTC的广泛浸润型等）的DTC容易发生甲状腺外侵犯、血管侵袭和远处转移，复发率高、预后相对较差。
+
+低分化型甲状腺癌（poorly differentiated thyroid cancer）也属于DTC范畴。此类肿瘤相对少见，有岛状、梁状或实性结构[^42]，但不具备典型PTC的细胞核特点，且至少有下列三个形态学特征之一：核扭曲、核分裂象≥3/10高倍镜视野、坏死。该类型肿瘤的临床生物学特点为高侵袭性、易转移、预后差，是目前DTC治疗的难点之一。
+
+DTC的治疗方法主要包括：手术治疗、术后<sup>131</sup>I治疗和TSH抑制治疗。其中，手术治疗最为重要，直接影响本病的后续治疗和随访，并与预后密切相关[^43] [^44]。DTC治疗的总体发展趋势是个体化的综合治疗。
+
+### 问题19. 如何确定DTC手术的甲状腺切除术式
+确定DTC手术的甲状腺切除范围时，需要考虑以下因素：肿瘤大小；有无侵犯周围组织；有无淋巴结和远处转移；单灶或多灶；童年期有无放射线接触史；有无甲状腺癌或甲状腺癌综合征家族史；性别、病理亚型等其他危险因素。应根据临床TNM（cTNM）分期、肿瘤死亡/复发的危险度、各种术式的利弊和患者意愿，细化外科处理原则，不可一概而论。
+
+DTC的甲状腺切除术式主要包括全/近全甲状腺切除术和甲状腺腺叶+峡部切除术。全甲状腺切除术即切除所有甲状腺组织，无肉眼可见的甲状腺组织残存；近全甲状腺切除术即切除几乎所有肉眼可见的甲状腺组织（保留<1g的非肿瘤性甲状腺组织，如喉返神经入喉处或甲状旁腺处的非肿瘤性甲状腺组织）。
+
+全/近全甲状腺切除术可为DTC患者带来下述益处：
+1. 一次性治疗多灶性病变；
+2. 利于术后监控肿瘤的复发和转移；
+3. 利于术后131I治疗；
+4. 减少肿瘤复发和再次手术的几率（特别是对中、高危DTC患者），从而避免再次手术导致的严重并发症发生率增加；
+5. 准确评估患者的术后分期和危险度分层。
+
+另一方面，全/近全甲状腺切除术后，将不可避免地发生永久性甲减；并且，这种术式对外科医生专业技能的要求较高，术后甲状旁腺功能受损和/或喉返神经损伤的概率增大[^45]。
+
+建议DTC的全/近全甲状腺切除术适应证包括：
+1. 童年期有头颈部放射线照射史或放射性尘埃接触史；
+2. 原发灶最大直径>4cm；
+3. 多癌灶，尤其是双侧癌灶；
+4. 不良的病理亚型，如：PTC的高细胞型、柱状细胞型、弥漫硬化型、实体亚型，FTC的广泛浸润型，低分化型甲状腺癌；
+5. 已有远处转移，需行术后<sup>131</sup>I治疗；
+6. 伴有双侧颈部淋巴结转移；
+7. 伴有腺外侵犯（如气管、食管、颈动脉或纵隔侵犯等）。
+
+全/近全甲状腺切除术的相对适应证是：肿瘤最大直径介于1-4cm之间，伴有甲状腺癌高危因素或合并对侧甲状腺结节。
+
+与全/近全甲状腺切除术相比，甲状腺腺叶+峡部切除术更有利于保护甲状旁腺功能、减少对侧喉返神经损伤，也利于保留部分甲状腺功能；但这种术式可能遗漏对侧甲状腺内的微小病灶[^46]，不利于术后通过血清Tg和131I全身显像监控病情，如果术后经评估还需要131I治疗，则要进行再次手术切除残留的甲状腺。
+
+因此，建议甲状腺腺叶+峡部切除术的适应证为：局限于一侧腺叶内的单发DTC，并且肿瘤原发灶≤1cm、复发危险度低、无童年期头颈部放射线接触史、无颈部淋巴结转移和远处转移、对侧腺叶内无结节。甲状腺腺叶+峡部切除术的相对适应证为：局限于一侧腺叶内的单发DTC，并且肿瘤原发灶≤4cm、复发危险度低、对侧腺叶内无结节；微小浸润型FTC。
+
+#### 推荐2-1：DTC手术中，选择性应用全/近全甲状腺切除术或甲状腺腺叶+峡部切除术。（推荐级别C）
+
+### 问题20. DTC手术中如何处理颈部中央区（VI区）淋巴结
+颈部淋巴结转移是DTC患者（尤其是≥45岁者）复发率增高和生存率降低的危险因素[^47] [^48]。20-90%的DTC患者在确诊时即存在颈部淋巴结转移，多发生于颈部中央区（VI区，表2）。28-33%的颈部淋巴结转移在术前影像学和术中检查时未被发现，而是在预防性中央区淋巴结清扫后得到诊断，并因此改变了DTC的分期和术后处理方案[^49]。因此，建议DTC术中在有效保留甲状旁腺和喉返神经情况下，行病灶同侧中央区淋巴结清扫术。
+
+中央区淋巴结清扫术的范围上界至甲状软骨，下界达胸腺，外侧界为颈动脉鞘内侧缘，包括气管前、气管旁、喉前（Delphian）淋巴结等[^50]。
+
+#### 推荐2-2：DTC术中在有效保留甲状旁腺和喉返神经情况下，行病灶同侧中央区淋巴结清扫术。（推荐级别A）
+
+### 问题21. DTC手术中如何处理颈部非中央区淋巴结
+DTC患者的颈部淋巴结转移也可累及侧颈部淋巴结（II-V区）和VII区（前纵隔），罕见情况下还可出现于I区[^51]。手术切除这些转移的淋巴结可降低肿瘤的复发率和死亡率；按分区切除优于仅切除受累淋巴结[^52] [^53]。
+
+建议对临床颈部非中央区淋巴结转移（cN1b）的DTC患者，行侧颈区淋巴结清扫术。建议根据VI区转移淋巴结的数量和比例、DTC原发灶的位置、大小、病理分型和术中对非VI区淋巴结的探查情况等，进行综合评估，对部分临床颈部中央区淋巴结转移（cN1a）患者行择区性颈部淋巴结清扫术[2^]。
+
+侧颈区淋巴结清扫术的范围上至二腹肌，下至锁骨上，内侧界为颈动脉鞘内侧缘，外界至斜方肌前缘，包括II-V区的淋巴结和软组织[^54]。
+
+#### 推荐2-3：对cN1b的DTC患者，行侧颈区淋巴结清扫术。（推荐级别B）
+
+#### 推荐2-4：对部分cN1a的DTC患者，行择区性颈淋巴结清扫术。（推荐级别C）
+
+### 问题22. DTC手术的并发症
+DTC手术的并发症包括[^55]：出血、切口感染、呼吸道梗阻、甲状旁腺损伤（一过性或永久性低钙血症）、喉返神经损伤、喉上神经损伤和麻醉相关的并发症等。
+
+国外数据显示全甲状腺切除术后，喉返神经损伤率为4.3%，双侧喉返神经损伤率为0.6%（其中半数患者行气管切开），有症状的低钙血症发生率为14.0%（永久性低钙血症为2.2%），术后出血发生率为8.0%，切口感染率为0.4%。手术并发症的发生率与术者经验有关。
+
+为尽量避免发生手术并发症，建议：术前做好充分的手术风险评估（如呼吸功能如何、是否存在呼吸道感染、声带是否正常、气管是否受压、是否伴发其它基础疾病等）。术中做到切口良好暴露、注意甲状旁腺和喉返神经保护，对气管受压软化者应将软化气管被膜悬吊于胸锁乳突肌或颈前肌群上，严重者应及时行气管切开；如不小心将甲状旁腺切除，确认后将切除甲状旁腺组织切成薄片或颗粒，种植于术区范围内的胸锁乳突肌或带状肌内。
+
+### 问题23：DTC的术后分期和复发危险度分层
+DTC的术后分期和复发危险度分层有助于：
+1. 预测患者的预后；
+2. 指导个体化的术后治疗方案，包括<sup>131</sup>I碘治疗和TSH抑制治疗等，以减少复发率和死亡率；
+3. 指导个体化的随访方案；
+4. 交流患者医疗信息。
+
+目前最常使用的肿瘤术后分期系统是美国癌症联合委员会（AJCC）的TNM分期，这是基于病理学参数（pTNM）和年龄的分期系统，适用于包括DTC在内的所有类型肿瘤（见表2和3）。
+
+
+
+| T ||| 原发灶 </br> 注: 所有的分类可再分为s（单个病灶），m（多发病灶，以最大的病灶确定分期） |
+ :-- | :-- | :-- | :-- |
+ | TX || 不能评价原发肿瘤 |
+ | T0 || 无原发肿瘤的证据 |
+ | T1 || 局限于甲状腺内的肿瘤，最大直径≤2 cm |
+ | | T1a | 肿瘤局限于甲状腺内，最大直径≤1 cm |
+ | | T1b | 肿瘤局限于甲状腺内，最大直径＞1 cm, ≤2 cm |
+ | T2 || 肿瘤局限于甲状腺内，最大直径＞2 cm，≤4 cm |
+ | T3 || 肿瘤局限于甲状腺内，最大直径＞4 cm；或有任何大小的肿瘤伴有最小程度的腺外浸润（如侵犯胸骨甲状肌或甲状腺周围软组织） |
+ | | T4a | 较晚期的疾病。任何大小的肿瘤浸润超出甲状腺包膜至皮下软组织、喉、气管、食道或喉返神经 | 
+ | | T4b | 很晚期的疾病。肿瘤侵犯椎前筋膜、或包绕颈动脉或纵隔血管 |
+ N ||| 区域淋巴结转移 </br>区域淋巴结包括颈正中部淋巴结、颈侧淋巴结、上纵隔淋巴结 |
+ | NX || 不能评价区域淋巴结 |
+ | N0 || 无区域淋巴结转移 |
+ | N1 || 区域淋巴结转移 |
+ | | N1a | 转移至VI区淋巴结（包括气管前、气管旁、喉前(Delphian）淋巴结） |
+ | | N1b | 转移至单侧、双侧或对侧颈部（I、II、III、IV、V区）、咽后或上纵隔淋巴结 |
+ M ||| 远处转移 |
+ | M0 || 无远处转移 |
+ | M1 || 有远处转移 |
+[表2 AJCC第七版（2010）甲状腺癌TNM分类[^56]]
+
+|| T | N | M |
+ :--: | :--: | :--: | :--: |
+ 年龄小于45岁 ||||
+ I期 | 任何T | 任何N | M0 |
+ II期 | 任何T | 任何N | M1 |
+ 年龄大于或等于45岁 ||||
+ I期 | T1 | N0 | M0 |
+ II期 | T2 | N0 | M0 |
+ III期 | T3 | N0 | M0 |
+  | T1 | N1a | M0 |
+  | T2 | N1a | M0 |
+  | T3 | N1a | M0 |
+ IVa期 | T4a | N0 | M0 |
+  | T4a | N1a | M0 |
+  | T1 | N1b | M0 |
+  | T2 | N1b | M0 |
+  | T3 | N1b | M0 |
+  | T4a | N1b | M0 |
+ IVb期 | T4b | 任何N | M0 |
+ IVc期 | 任何T | 任何N | M1 |
+[表3 AJCC第七版（2010）DTC的TNM分期[^56]]
+
+但是，AJCC TNM分期系统预测的仅是死亡危险度而非复发危险度。对于DTC这种长期生存率很高的恶性肿瘤，更应对患者进行复发危险度分层。目前尚无公认的“最佳”分层系统。本指南建议采用下述的3级分层（表4）：
+
+| 复发危险度组别 | 符合条件 |
+ :--: | :-- |
+ 低危组 | 符合以下全部条件者 </br> - 无局部或远处转移 </br> - 所有肉眼可见的肿瘤均被彻底清除 </br> - 肿瘤没有侵犯周围组织 </br> - 肿瘤不是侵袭型的组织学亚型，并且没有血管侵犯  </br> - 如果该患者清甲后行全身碘显像，甲状腺床以外没有发现碘摄取 |
+ 中危组| 符合以下任一条件者 </br> - 初次手术后病理检查可在镜下发现肿瘤有甲状腺周围软组织侵犯 </br> - 有颈淋巴结转移或清甲后行全身<sup>131</sup>I显像发现有异常放射性摄取 </br> - 肿瘤为侵袭型的组织学类型，或有血管侵犯 |
+ 高危组 | 符合以下任一条件者 </br> - 肉眼下可见肿瘤侵犯周围组织或器官 </br> - 肿瘤未能完整切除，术中有残留 </br> - 伴有远处转移 </br> - 全甲状腺切除后，血清Tg水平仍较高 </br> - 有甲状腺癌家族史 |
+[表4 分化型甲状腺癌（DTC）的复发危险度分层]
+
+但是应当注意到，上述DTC的分期和危险度分层方案的制定，还没有充分结合病理学所详细描述的预后因素（如癌细胞频发性核有丝分裂、肿瘤坏死区域等），也没有考虑原发病灶的分子特征及其去分化状态。因此，还应该进一步完善形成更加合理的分期和复发危险度分层系统，并对患者进行动态评估[^57]。
+
+#### 推荐2-5：对所有DTC患者均应进行术后AJCC TNM分期和复发危险度低、中、高危分层，以助于预测患者预后、指导个体化的术后治疗和随访方案、交流患者医疗信息。（推荐级别A）
+
+[^1]: Schlumberger M et al. Non toxic goiter and thyroid neoplasia. In Williams’ Textbook of Endocrinology, edn 10, 2003: 457-490 (Eds Larsen PR et al.) Philadelphia: WB Saunders.
+[^2]: American Thyroid Association (ATA) Guidelines Taskforce on Thyroid Nodules and Differentiated Thyroid Cancer, Cooper DS, Doherty GM, Haugen BR, Kloos RT, Lee SL, Mandel SJ, Mazzaferri EL, McIver B, Pacini F, Schlumberger M, Sherman SI, Steward DL, Tuttle RM. The American Thyroid Association Guidelines Taskforce. Revised management guidelines for patients with thyroid nodules and differentiated thyroid cancer. Thyroid, 2009, 19: 1167-1214.
+[^3]: Gharib H, Papini E, Paschke R, Duick DS, Valcavi R, Hegedüs L, Vitti P; AACE/AME/ETA Task Force on Thyroid Nodules. American Association of Clinical Endocrinologists, Associazione Medici Endocrinologi, and EuropeanThyroid Association Medical Guidelines for Clinical Practice for the Diagnosis and Management of Thyroid Nodules. Endocr Pract. 2010, 16 Suppl 1:1-43.
+[^4]: Hegedüs L. Clinical practice. The thyroid nodule. N Engl J Med. 2004, 351:1764-1771.
+[^5]: Fiore E, Vitti P. Serum TSH and Risk of Papillary Thyroid Cancer in Nodular Thyroid Disease. J Clin Endocrinol Metab. 2012, 97:1134-1145.
+[^6]: McLeod DS, Watters KF, Carpenter AD, Ladenson PW, Cooper DS, Ding EL. Thyrotropin and thyroid cancer diagnosis: a systematic review and dose-response meta-analysis. J Clin Endocrinol Metab. 2012, 97:2682-2692.
+[^7]: Pacini F, Pinchera A, Giani C, Grasso L, Doveri F, Baschieri L. Serum thyroglobulin in thyroid carcinoma and other thyroid disorders. J Endocrinol Invest. 1980, 3:283-292.
+[^8]: Gagel RF, Hoff AO, Cote GJ. Medullary thyroid carcinoma. In: Werner and Ingbar’s The Thyroid. Lippincott Williams and Wilkins, Philadelphia, 2005: 967-988.
+[^9]: Costante G, Meringolo D, Durante C, Bianchi D, Nocera M, Tumino S Crocetti U, Attard M, Maranghi M, Torlontano M, Filetti S. Predictive value of serum calcitonin levels for preoperative diagnosis of medullary thyroid carcinoma in a cohort of 5817 consecutive patients with thyroid nodules. J Clin Endocrinol Metab. 2007, 92:450-455.
+[^10]: Baskin HJ. Ultrasound of thyroid nodules. In: Baskin HJ, ed. Thyroid Ultrasound and Ultrasound-Guided FNA Biopsy. Boston, MA: Kluwer Academic Publishers, 2000: 71-86.
+[^11]: Moon WJ, Kwag HJ, Na DG. Are there any specific ultrasound findings of nodular hyperplasia (‘‘leave me alone’’ lesion) to differentiate it from follicular adenoma? Acta Radiologica. 2009, 50:383-388.
+[^12]: Moon WJ, Jung SL, Lee JH, Na DG, Baek JH, Lee YH, Kim J, Kim HS, Byun JS, Lee DH; Thyroid Study Group, Korean Society of Neuro- and Head and Neck Radiology. Benign and malignant thyroid nodules: US differentiation—multicenter retrospective study. Radiology. 2008, 247:762-770.
+[^13]: Cappelli C, Castellano M, Pirola I, Cumetti D, Agosti B, Gandossi E, Agabiti Rosei E. The predictive value of ultrasound findings in the management of thyroid nodules. QJM. 2007, 100:29-35.
+[^14]: Rago T, Santini F, Scutari M, Pinchera A, Vitti P. Elastography: new developments in ultrasound for predicting malignancy in thyroid nodules. J Clin Endocrinol Metab. 2007, 92: 2917-2922.
+[^15]: Pacini F, Castagna MG, Brilli L, Pentheroudakis G; ESMO Guidelines Working Group. Thyroid cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2010, 21 Suppl 5:v214-9.
+[^16]: Shetty SK, Maher MM, Hahn PF, Halpern EF, Aquino SL. Significance of incidental thyroid lesions detected on CT: Correlation among CT, sonography, and pathology. AJR Am J Roentgenol. 2006, 187:1349-1356.
+[^18]: Carmeci C, Jeffrey RB, McDougall IR, Nowels KW, Weigel RJ. Ultrasound-guided fine-needle aspiration biopsy 36
+[^17]: 关志伟,徐白萱,陈英茂,张锦明,田嘉禾。大规模人群 FDG PET/CT 意外发现甲状腺高代谢结节的回 顾性分析。中华核医学与分子影像杂志. 2012, 32: 32-35. of thyroid masses. Thyroid. 1998, 8:283-289.
+[^19]: Boelaert K, Horacek J, Holder RL, Watkinson JC, Sheppard MC, Franklyn JA. Serum thyrotropin concentration as a novel predictor of malignancy in thyroid nodules investigated by fine-needle aspiration. J Clin Endo Metab. 2006, 91:4295-4301.
+[^20]: Noguchi S, Yamashita H, Uchino S, Watanabe S. Papillary microcarcinoma. World J Surg. 2008, 32:747-753.
+[^21]: Can AS, Peker K. Comparison of palpation-versus ultrasound-guided fine-needle aspiration biopsies in the evaluation of thyroid nodules. BMC Res Notes. 2008, 1: 12.
+[^22]: Danese D, Sciacchitano S, Farsetti A, Andreoli M, Pontecorvi A. Diagnostic accuracy of conventional versus sonography-guided fine-needle aspiration biopsy of thyroid nodules. Thyroid. 1998, 8:15-21.
+[^23]: Baloch ZW, LiVolsi VA, Asa SL, Rosai J, Merino MJ, Randolph G, Vielh P, DeMay RM, Sidawy MK, Frable WJ. Diagnostic terminology and morphologic criteria for cytologic diagnosis of thyroid lesions: a synopsis of the National Cancer Institute Thyroid Fine-Needle Aspiration State of the Science Conference. Diagn Cytopathol.2008, 36:425-437.
+[^24]: Nikiforov YE, Steward DL, Robinson-Smith TM, et al. Molecular testing for mutations in improving the fine-needle aspiration diagnosis of thyroid nodules. J Clin Endocrinol Metab. 2009, 94: 2092-2098.
+[^25]: Lee ST, Kim SW, Ki CS, et al. Clinical Implication of Highly Sensitive Detection of the BRAF V600E Mutation in Fine-Needle Aspirations of Thyroid Nodules: A Comparative Analysis of Three Molecular Assays in 4585 Consecutive Cases in a BRAF V600E Mutation-Prevalent Area. J Clin Endocrinol Metab. 2012, 97:2299-2306.
+[^26]: Rossi M, Buratto M, Bruni S, et al. Role of Ultrasonographic/Clinical Profile, Cytology, and BRAF V600E Mutation Evaluation in Thyroid Nodule Screening for Malignancy: A Prospective Study. J Clin Endocrinol Metab. 2012, 97: 2354-2361.
+[^27]: Oertel YC, Miyahara-Felipe L, Mendoza MG, Yu K. Value of repeated fine needle aspirations of the thyroid: ananalysis of over ten thousand FNAs. Thyroid. 2007, 17:1061-1066.
+[^28]: Hermus AR, Huysmans DA. Treatment of benign nodular thyroid disease. N Engl J Med. 1998, 338: 1438-1447.
+[^29]: Castro MR, Caraballo PJ, Morris JC. Effectiveness of thyroid hormone suppressive therapy in benign solitary thyroid nodules: a meta-analysis. J Clin Endocrinol Metab. 2002, 87: 4154-4159.
+[^30]: Sdano MT, Falciglia M, Welge JA, Steward DL. Efficacy of thyroid hormone suppression for benign thyroid nodules: meta-analysis of randomized trials. Otolaryngol Head Neck Surg. 2005, 133: 391-396.
+[^31]: Koc M, Ersoz HO, Akpinar I, Gogas-Yavuz D, Deyneli O, Akalin S. Effect of low- and high-dose levothyroxine on thyroid nodule volume: a crossover placebo-controlled trial. Clin Endocrinol (Oxf). 2002, 57: 621-628.
+[^32]: Biondi B, Cooper DS. The clinical significance of subclinical thyroid dysfunction. Endocr Rev. 2008, 29:76-131.
+[^33]: Nygaard B, Hegedüs L, Nielsen KG, Ulriksen P, Hansen JM. Long-term effect of radioactive iodine on thyroid function and size in patients with solitary autonomously functioning toxic thyroid nodules. Clin Endocrinol (Oxf). 1999, 50: 197-202.
+[^34]: Ross DS. Radioiodine therapy for hyperthyroidism. N Engl J Med. 2011, 364: 542-550.
+[^35]: Rallison ML, Dobyns BM, Keating FR Jr, Rall JE, Tyler FH. Thyroid nodularity in children. JAMA. 1975,233:1069-1072.
+[^36]: 王珉，吕宏彦，罗艳华，陈会欣，杨丽芬，李唯，杨丹妮.。吉林省1 193例8-10岁儿童甲状腺容积及结节调查。中国地方病防治杂志. 2011, 26: 57-59.
+[^37]: Zhu C, Zheng T, Kilfoy BA, et al. A birth cohort analysis of the incidence of papillary thyroid cancer in the United States, 1973-2004. Thyroid. 2009, 19: 1061-1066.
+[^38]: Raab SS, Silverman JF, Elsheikh TM, Thomas PA, Wakely PE. Pediatric thyroid nodules: Disease demographics and clinical management as determined by fine needle aspiration biopsy. Pediatrics. 1995, 95: 46-49.
+[^39]: Rachmiel M, Charron M, Gupta A, Hamilton J, Wherrett D, Forte V, et al. Evidence-based review of treatment and follow up of pediatric patients with differentiated thyroid carcinoma. J Pediatr Endocrinol Metab. 2006, 19: 1377-1393.
+[^40]: Hogan AR, Zhuge Y, Perez EA, Koniaris LG, Lew JI, Sola JE. Pediatric thyroid carcinoma: incidence and outcomes in 1753 patients. J Surg Res. 2009, 156: 167-172.
+[^41]: American Thyroid Association Guidelines Task Force, Kloos RT, Eng C, Evans DB, Francis GL, Gagel RF, Gharib H, Moley JF, Pacini F, Ringel MD, Schlumberger M, Wells SA Jr. Medullary thyroid cancer: management guidelines of the American Thyroid Association. Thyroid. 2009, 19: 565-612.
+[^42]: Volante M, Landolfi S, Chiusa L, Palestini N, Motta M, Codegone A, Torchio B, Papotti MG. Poorly differentiated carcinomas of the thyroid with trabecular, insular, and solid patterns: a clinicopathologic study of 183 patients. Cancer. 2004, 100:950-957.
+[^43]: Mazzaferri EL, Jhiang SM. Long-term impact of initial surgical and medical therapy on papillary and follicular thyroid cancer. Am J Med. 1994, 97:418-428.
+[^44]: Bilimoria KY, Bentrem DJ, Ko CY, Stewart AK, Winchester DP, Talamonti MS, Sturgeon C. Extent of surgery af-fects survival for papillary thyroid cancer. Ann Surg. 2007, 246: 375-381.
+[^45]: Sosa JA, Bowman HM, Tielsch JM, Powe NR, Gordon TA, Udelsman R. The importance of surgeon experience for clinical and economic outcomes from thyroidectomy. Ann Surg. 1998, 228: 320-330.
+[^46]: Pacini F, Elisei R, Capezzone M, Miccoli P, Molinaro E,Basolo F, Agate L, Bottici V, Raffaelli M, Pinchera A. Contralateral papillary thyroid cancer is frequent at completion thyroidectomy with no difference in low- and high-risk patients. Thyroid. 2001, 11: 877-881.
+[^47]: Podnos YD, Smith D, Wagman LD, Ellenhorn JD. The implication of lymph node metastasis on survival in patients with well-differentiated thyroid cancer. Am Surg. 2005, 71:731-734.
+[^48]: Zaydfudim V, Feurer ID, Griffin MR, Phay JE. The impact of lymph node involvement on survival in patients with papillary and follicular thyroid carcinoma. Surgery. 2008, 144: 1070-1077.
+[^49]: Moo TA, McGill J, Allendorf J, Lee J, Fahey T 3rd, Zarnegar R. Impact of prophylactic central neck lymph node dissection on early recurrence in papillary thyroid carcinoma. World J Surg. 2010, 34: 1187- 1191.
+[^50]: The ATA Surgery Working Group. Consensus Statement on the Terminology and Classification of Central Neck Dissection for Thyroid Cancer. Thyroid. 2009, 19:1153-1158.
+[^51]: Machens A, Hinze R, Thomusch O, Dralle H. Pattern of nodal metastasis for primary and reoperative thyroid cancer. World J Surg. 2002, 26:22-28.
+[^52]: Gemsenjager E, Perren A, Seifert B, Schuler G, Schweizer I,Heitz PU. Lymph node surgery in papillary thyroid carcinoma. J Am Coll Surg. 2003, 197: 182-190.
+[^53]: Goropoulos A, Karamoshos K, Christodoulou A, Ntitsias T,Paulou K, Samaras A, Xirou P, Efstratiou I. Value of the cervical compartments in the surgical treatment of papillary thyroid carcinoma. World J Surg. 2004, 28:1275-1281.
+[^54]: Robbins KT, Shaha AR, Medina JE, Califano JA, Wolf GT,Ferlito A, Som PM, Day TA; Committee for Neck Dissection Classification, American Head and Neck Society. Consensus statement on the classification and terminology of neck dissection. Arch Otolaryngol Head Neck Surg. 2008, 134: 536-538.
+[^55]: Röher HD, Goretzki PE, Hellmann P, Witte J. Complications in thyroid surgery. Incidence and therapy. Chirurg. 1999, 70: 999-1010.
+[^56]: NCCN guidelines: Thyroid carcinoma. Version 3, 2011.
+[^57]: Tuttle RM, Leboeuf R. Follow up approaches in thyroid cancer: a risk adapted paradigm. Endocrinol Metab Clin North Am. 2008, 37: 419-435.
+[^58]: Schlumberger MJ. Papillary and follicular thyroid carcinoma. N Engl J Med. 1998, 338: 297-306.
+[^59]: Chen L, Luo Q, Shen Y, Yu Y, Yuan Z, Lu H, Zhu R. Incremental value of 131I SPECT/CT in the management of patients with differentiated thyroid carcinoma. J Nucl Med. 2008, 49: 1952-1957.
+[^60]: 张桂芝，谭建，刘雪辉，等。131I治疗分化型甲状腺癌术后患者疗效影响因素研究。中华核医学杂志. 2010, 30: 259-263.
+[^61]: Randolph GW, Daniels GH. Radioactive iodine lobe ablation as an alternative to completion thyroidectomy for follicular carcinoma of the thyroid. Thyroid. 2002, 12:989-996.
+[^62]: Luster M, Clarke SE, Dietlein M, Lassmann M, Lind P, Oyen WJ, Tennvall J, Bombardieri E; European Association of Nuclear Medicine (EANM). Guidelines for radioiodine therapy of differentiated thyroid cancer. Eur J Nucl Med Mol Imaging. 2008, 35: 1941-1959.
+[^63]: Edmonds CJ, Hayes S, Kermode JC., Thompson BD. Measurement of serum TSH and thyroid hormones in the management of treatment of thyroid carcinoma with radioiodine. Br J Radiol. 1977, 50:799-807.
+[^64]: Grigsby PW, Siegel BA, Bekker S, Clutter WE, Moley JF. Preparation of patients with thyroid cancer for 131I scintigraphy or therapy by 1–3 weeks of thyroxine discontinuation. J Nucl Med. 2004, 45:567-570.
+[^65]: 关海霞，陆汉魁。重组人促甲状腺激素在甲状腺疾病诊治中的应用。中华核医学和分子影像杂志. 2012, 32.
+[^66]: Carril JM, Quirce R, Serrano J, Banzo I, Jime´nez-Bonilla JF, Tabuenca O, Barquı´n RG. Total-body scintigraphy with thallium-201 and iodine-131 in the follow-up of differentiated thyroid cancer. J Nucl Med. 1997, 38:686-692.
+[^67]: Muratet JP, Giraud P, Daver A, Minier JF, Gamelin E, Larra F. Predicting the efficacy of first iodine-131 treatment in differentiated thyroid carcinoma. J Nucl Med. 1997, 38:1362-1368.
+[^68]: Morris LF, Waxman AD, Braunstein GD. The nonimpact of thyroid stunning: remnant ablation rates in 131I-scanned and nonscanned individuals. J Clin Endocrinol Metab. 2001, 86: 3507-3511.
+[^69]: Lassmann M, Luster M, Hanscheid H, Reiners C. Impact of (131)I diagnostic activities on the biokinetics of thyroid remnants. J Nucl Med. 2004, 45:619-625.
+[^70]: Silberstein EB. Comparison of outcomes after (123)I versus (131)I pre-ablation imaging before radioiodine ablation in differentiated thyroid carcinoma. J Nucl Med. 2007, 48: 1043-1046.
+[^71]: Pluijmen MJ, Eustatia-Rutten C, Goslings BM, Stokkel MP, Arias AM, Diamant M, Romijn JA, Smit JW. Effects of low-iodide diet on postsurgical radioiodide ablation therapy in patients with differentiated thyroid carcinoma. Clin Endocrinol (Oxf ). 2003, 58:428-435.
+[^72]: American Thyroid Association Taskforce On Radioiodine Safety, Sisson JC, Freitas J, McDougall IR, Dauer LT, Hurley JR, Brierley JD, Edinboro CH, Rosenthal D, Thomas MJ, Wexler JA, Asamoah E, Avram AM, Milas M, Greenlee C. Radiation safety in the treatment of patients with thyroid diseases by radioiodine 131I: practice recommendations of the American Thyroid Association. Thyroid. 2011, 21: 335-346.
+[^73]: Maenpaa HO, Heikkonen J, Vaalavirta L, Tenhunen M, Joensuu H. Low vs. high radioiodine activity to ablate the thyroid after thyroidectomy for cancer: a randomized study. PLoS ONE 2008, 3:e1885.
+[^74]: Schlumberger M, Catargi B, Borget I, Deandreis D, Zerdoud S, Bridji B, Bardet S, Leenhardt L, Bastie D, Schvartz C, Vera P, Morel O, Benisvy D, Bournaud C, Bonichon F, Dejax C, Toubert ME, Leboulleux S, Ricard M, Benhamou E; Tumeurs de la Thyroïde Refractaires Network for the Essai Stimulation Ablation Equivalence Trial. Strategies of radioiodine ablation in patients with low-risk thyroid cancer. N Engl J Med. 2012, 366: 1663-1673.
+[^75]: Mallick U, Harmer C, Yap B, Wadsley J, Clarke S, Moss L, Nicol A, Clark PM, Farnell K, McCready R, Smellie J, Franklyn JA, John R, Nutting CM, Newbold K, Lemon C, Gerrard G, Abdel-Hamid A, Hardman J, Macias E, Roques T, Whitaker S, Vijayan R, Alvarez P, Beare S, Forsyth S, Kadalayil L, Hackshaw A. Ablation with low-dose radioiodine and thyrotropin alfa in thyroid cancer. N Engl J Med. 2012, 366:1674-1685.
+[^76]: Jarzab B, Handkiewicz-Junak D, Wloch J. Juvenile differentiated thyroid carcinoma and the role of radioiodine in its treatment: a qualitative review. Endocr Relat Cancer. 2005, 12:773-803.
+[^77]: Mandel SJ, Mandel L. Radioactive iodine and the salivary glands. Thyroid. 2003, 13:265-271.
+[^78]: Nakada K, Ishibashi T, Takei T, Hirata K, Shinohara K, Katoh S, Zhao S, Tamaki N, Noguchi Y, Noguchi S. Does lemon candy decrease salivary gland damage after radioiodine therapy for thyroid cancer? J Nucl Med. 2005, 46: 261-266.
+[^79]: Liu B, Kuang A, Huang R, Zhao Z, Zeng Y, Wang J, Tian R. Influence of Vitamin C on Salivary Absorbed Dose of I-131 in Thyroid Cancer Patients: A Prospective, Randomized, Single-Blind, Controlled Trial. J Nucl Med. 2010, 51:618-623.
+[^80]: Fatourechi V, Hay ID, Mullan BP, Wiseman GA, Eghbali- Fatourechi GZ, Thorson LM, Gorman CA. Are posttherapy radioiodine scans informative and do they influence subsequent therapy of patients with differentiated thyroid cancer? Thyroid. 2000, 10:573-577.
+[^81]: Souza Rosario PW, Barroso AL, Rezende LL, Padrao EL, Fagundes TA, Penna GC, Purisch S. Post I-131 therapy scanning in patients with thyroid carcinoma metastases: an unnecessary cost or a relevant contribution? Clin Nucl Med. 2004, 29:795-798.
+[^82]: Schlumberger M, Challeton C, De Vathaire F, Travagli J-P, Gardet P, Lumbroso J-D, Francese C, Fontaine F, Ricard M, Parmentier C. Radioactive iodine treatment and external radiotherapy for lung and bone metastases from thyroid carcinoma. J Nucl Med. 1996, 37:598-605.
+[^83]: Robbins RJ, Schlumberger MJ. The evolving role of (131)I for the treatment of differentiated thyroid carcinoma. J Nucl Med. 2005, 46:28S-37S.
+[^84]: Zhu R, Yu Y, Lu H, Luo Q, Chen L. Clinincal study of 312 cases with metastatic differentiated thyroid cancer treated with large doses of 131I. Chin Med J. 2005, 118:425-428.
+[^85]: Walter MA, Turtschi CP, Schindler C, Minnig P, Muller-Brand J, Muller B. The dental safety profile of highdose radioiodine therapy for thyroid cancer: long-term results of a longitudinal cohort study. J Nucl Med. 2007, 48:1620-1625.
+[^86]: Kloos RT, Duvuuri V, Jhiang SM, Cahill KV, Foster JA, Burns JA. Nasolacrimal drainage system obstruction from radioactive iodine therapy for thyroid carcinoma. J Clin Endocrinol Metab. 2002, 87:5817-5820.
+[^87]: Rubino C, de Vathaire F, Dottorini ME, Hall P, Schvartz C, Couette JE, Dondon MG, Abbas MT, Langlois C, Schlumberger M. Second primary malignancies in thyroid cancer patients. Br J Cancer. 2003, 89:1638-1644.
+[^88]: Brown AP, Chen J, Hitchcock YJ, Szabo A, Schrieve DC, Tward JD. The risk of second primary malignancies up to three decades after the treatment of differentiated thyroid cancer. J Clin Endocrinol Metab. 2008, 93:504-515.
+[^89]: Sawka AM, Thabane L, Parlea L, Ibrahim-Zada I, Tsang RW, Brierley JD, Straus S, Ezzat S, Goldstein DP. Second primary malignancy risk after radioactive iodine treatment for thyroid cancer: a systematic review and meta analysis. Thyroid. 2009, 19:451-457.
+[^90]: Chen AY, Levy L, Goepfert H, Brown BW, Spitz MR, Vassilopoulou-Sellin R. The development of breast carcinoma in women with thyroid carcinoma. Cancer. 2001, 92:225-231.
+[^91]: Sawka AM, Lakra DC, Lea J, Alshehri B, Tsang RW, Brierley JD, Straus S, Thabane L, Gafni A, Ezzat S, GeorgeSR, Goldstein DP. A systematic review examining theeffects of therapeutic radioactive iodine on ovarian function and future pregnancy in female thyroid cancer survivors. Clin Endocrinol (Oxf ). 2008, 69:479-490.
+[^92]: Brabant G．Thyrotropin suppressive therapy in thyroid carcinoma: what are the targets? J Clin Endocrinol Metab. 2008, 93: 1167-1169．
+[^93]: Hovens GC, Stokkel MP, Kievit J, Corssmit EP, Pereira AM, Romijn JA, Smit JW. Associations of serum thyrotropin concentrations with recurrence and death in differentiated thyroid cancer. J Clin Endocrinol Metab. 2007, 92:2610-2615.
+[^94]: Jonklaas J, Sarlis NJ, Litofsky D, Ain KB, Bigos ST, Brierley JD, Cooper DS, Haugen BR, Ladenson PW, Magner J, Robbins J, Ross DS, Skarulis M, Maxon HR, Sherman SI. Outcomes of patients with differentiated thyroidcarcinoma following initial therapy. Thyroid. 2006, 16: 1229-1242.
+[^95]: Biondi B, Filetti S, Schlumberger M. Thyroid hormone therapy and thyroid cancer: a reassessment. Nat Clin Pract Endocrinol Metab. 2005, 1: 32-40.
+[^96]: Biondi B, Copper DS. Benefits of thyrotropin suppression versus the risks of adverse effects in differentiated thyroid cancer. Thyroid. 2010, 20: 135-146.
+[^97]: Mariotti S, Franceschi C, Cossarizza A. The aging thyroid. Endocrine Rev. 1995, 16: 686-715.
+[^98]: Bach-Huynh TG, Nayak B, Loh J, Soldin S, Jonklaas J. Timing of levothyroxine administration affects serum thyrotropin concentration. J Clin Endocrinol Metab. 2009, 94: 3905-3912.
+[^99]: 中华医学会骨质疏松和骨矿盐疾病分会。原发性骨质疏松诊治指南（2011年）。中华骨质疏松和骨矿盐疾病杂志. 2011, 4: 2-18.
+[^100]: Bahn RS, Burch HB, Cooper DS, Garber JR, Greenlee MC, Klein I, Laurberg P, McDougall IR, Montori VM, Rivkees SA, Ross DS, Sosa JA, Stan MN; American Thyroid Association; American Association of Clinical Endocrinologists. Hyperthyroidism and other causes of thyrotoxicosis: management guidelines of the American Thyroid Association and American Association of Clinical Endocrinologists. Thyroid. 2011, 21: 593-646.
+[^101]: Sanders LE, Silverman M. Follicular and Hurthle cell carcinoma: predicting outcome and directing therapy. Surgery. 1998, 124: 967-974.
+[^102]: Middendorp M, Grünwald F. Update on recent developments in the therapy of differentiated thyroid cancer. Semin Nucl Med. 2010, 40: 145-152.
+[^103]: Matuszczyk A, Petersenn S, Bockisch A, Gorges R, Sheu SY, Veit P, Mann K. Chemotherapy with doxorubicin in progressive medullary and thyroid carcinoma of the follicular epithelium. Horm Metab Res. 2008, 40: 210-213.
+[^104]: Ye L, Santarpia L, Gagel RF. The evolving field of tyrosine kinase inhibitors in the treatment of endocrine tumors. Endocr Rev. 2010, 31: 578-599.
+[^105]: Shoup M, Stojadinovic A, Nissan A, Ghossein RA, Freedman S, Brennan MF, Shah JP, Shaha AR. Prognostic indicators of outcomes in patients with distant metastases from differentiated thyroid carcinoma. J Am Coll Surg. 2003, 197: 191-197.
+[^106]: Eustatia-Rutten CF, Smit JW, Romijn JA, van der Kleij- Corssmit EP, Pereira AM, Stokkel MP, Kievit J. Diagnostic value of serum thyroglobulin measurements in the follow-up of differentiated thyroid carcinoma, a structured meta-analysis. Clin Endocrinol (Oxf). 2007, 61: 61-74.
+[^107]: Spencer CA. Challenges of serum thyroglobulin (thyroglobulin) measurement in the presence of thyroglobulin autoantibodies. J Clin Endocrinol Metab. 2004, 89:3702-3704.
+[^108]: Bachelot A, Leboulleux S, Baudin E, Hartl DM, Caillou B, Travagli JP, Schlumberger M. Neck recurrence from thyroid carcinoma: serum thyroglobulin and highdose total body scan are not reliable criteria for cure after radioiodine treatment. Clin Endocrinol (Oxf ). 2005, 62: 376- 379.
+[^109]: Woodmansee WW, Haugen BR. Uses for recombinant human TSH in patients with thyroid cancer and nodular goiter. Clin Endocrinol (Oxf). 2004, 61: 163-173.
+[^110]: Schlumberger M, Berg G, Cohen O, Duntas L, Jamar F, Jarzab B, Limbert E, Lind P, Pacini F, Reiners C, Sanchez Franco F, Toft A, Wiersinga WM. Follow-up of lowrisk patients with differentiated thyroid carcinoma: a European perspective. Eur J Endocrinol. 2004, 150: 105-112.
+[^111]: Castagna MG, Brilli L, Pilli T, Montanaro A, Cipri C, Fioravanti C, Sestini F, Capezzone M, Pacini F. Limited value of repeat recombinant thyrotropin (rhTSH)- stimulated thyroglobulin testing in differentiated thyroid carcinoma patients with previous negative rhTSHstimulated thyroglobulin and undetectable basal serum thyroglobulin levels. J Clin Endocrinol Metab. 2008, 93:76-81.
+[^112]: Mazzaferri EL, Robbins RJ, Spencer CA, Braverman LE, Pacini F, Wartofsky L, Haugen BR, Sherman SI, CooperDS, Braunstein GD, Lee S, Davies TF, Arafah BM, Ladenson PW, Pinchera A. A consensus report of the role of serum thyroglobulin as a monitoring method for low-risk patients with papillary thyroid carcinoma. J Clin Endocrinol Metab. 2003, 88:1433-1441.
+[^113]: Pacini F, Molinaro E, Castagna MG, Agate L, Elisei R, Ceccarelli C, Lippi F, Taddei D, Grasso L, Pinchera A. Recombinant human thyrotropin-stimulated serum thyroglobulin combined with neck ultrasonography has the highest sensitivity in monitoring differentiated thyroid carcinoma. J Clin Endocrinol Metab. 2003, 88: 3668-3673.
+[^114]: Kloos RT, Mazzaferri EL. A single recombinant human thyrotrophin-stimulated serum thyroglobulin measurement predicts differentiated thyroid carcinoma metastases three to five years later. J Clin Endocrinol Metab. 2005, 90:5047-5057.
+[^115]: Kouvaraki MA, Shapiro SE, Fornage BD, Edeiken-Monro BS, Sherman SI, Vassilopoulou-Sellin R, Lee JE, Evans DB. Role of preoperative ultrasonography in the surgical management of patients with thyroid cancer. Surgery. 2003, 134: 946-954.
+[^116]: Torlontano M, Crocetti U, Augello G, D’Aloiso L, Bonfitto N, Varraso A, Dicembrino F, Modoni S, Frusciante V, DiGiorgio A, Bruno R, Filetti S, Trischitta V. Comparative evaluation of recombinant human thyrotropin-stimulated thyroglobulin levels, 131I whole-body scintigraphy, and neck ultrasonography in the follow-up of patients with papillary thyroid microcarcinoma who have not undergone radioiodine therapy. J Clin Endocrinol Metab. 2006, 91:60-63.
+[^117]: Pacini F, Molinaro E, Castagna MG, Agate L, Elisei R, Ceccarelli C, Lippi F, Taddei D, Grasso L, Pinchera A. Recombinant human thyrotropin-stimulated serum thyroglobulin combined with neck ultrasonography has the highest sensitivity in monitoring differentiated thyroid carcinoma. J Clin Endocrinol Metab. 2003, 88:3668-3673.
+[^118]: Snozek CL, Chambers EP, Reading CC, Sebo TJ, Sistrunk JW, Singh RJ, Grebe SK. Serum thyroglobulin, highresolution ultrasound, and lymph node thyroglobulin indiagnosis of differentiated thyroid carcinoma nodal metastases. J Clin Endocrinol Metab. 2007, 92:4278- 4281.
+[^119]: Cunha N, Rodrigues F, Curado F, Ilhe´u O, Cruz C, Naidenov P, Rasca˜o MJ, Ganho J, Gomes I, Pereira H, Real O, Figueiredo P, Campos B, Valido F. Thyroglobulin detection in fine-needle aspirates of cervical lymph nodes: a technique for the diagnosis of metastatic differentiated thyroid cancer. Eur J Endocrinol. 2007, 157: 101-107.
+[^120]: Pacini F, Capezzone M, Elisei R, Ceccarelli C, Taddei D, Pinchera A. Diagnostic 131-iodine whole-body scan may be avoided in thyroid cancer patients who have undetectable stimulated serum thyroglobulin levels after initial treatment. J Clin Endocrinol Metab. 2002, 87:1499-1501.
+[^121]: Torlontano M, Crocetti U, D’Aloiso L, Bonfitto N, Di Giorgio A, Modoni S, Valle G, Frusciante V, Bisceglia M, Filetti S, Schlumberger M, Trischitta V. Serum thyroglobulin and 131I whole body scan after recombinant human TSH stimulationin the follow-up of low-risk patients with differentiated thyroid cancer. Eur J Endocrinol. 2003, 148:19-24.
+[^122]: Larson SM, Robbins R. Positron emission tomography in thyroid cancer management. Semin Roentgenol. 2002, 37:169-174.
+[^123]: Leboulleux S, Schroeder PR, Busaidy NL, Auperin A, Corone C, Jacene HA, Ewertz ME, Bournaud C, Wahl RL, Sherman SI, Ladenson PW, Schlumberger M. Assessment of the incremental value of recombinant TSH stimulation before FDG PET/CT imaging to localize residual differentiated thyroid cancer. J Clin Endocrinol Metab. 2009, 94:1310-1316.
+[^124]: van Tol KM, Jager PL, de Vries EG, Piers DA, Boezen HM, Sluiter WJ, Dullaart RP, Links TP. Outcome in patients with differentiated thyroid cancer with negative diagnostic whole-body scanning and detectable stimulated thyroglobulin. Eur J Endocrinol. 2003, 148: 589-596.
+[^125]: Sampson E, Brierly JD, Le LW, Rotstein L, Tsang RW. Clinical management and outcome of papillary and follicular (differentiated) thyroid cancer presenting with distant metastasis at diagnosis. Cancer. 2007, 110:1451-1456.
+[^126]: Durante C, Haddy N, Baudin E, Leboulleux S, Hartl D, Travagli JP, Caillou B, Ricard M, Lumbroso JD, De Vathaire F, Schlumberger M. Long term outcome of 444 patients with distant metastases from papillary and follicular thyroid carcinoma: benefits and limits of radioiodine therapy. J Clin Endocrinol Metab. 2006, 92:450-455.
+[^127]: Tuttle RM. Risk-adapted management of thyroid cancer. Endocr Pract. 2008, 14:764-774.
+[^128]: Tuttle RM, Tala H, Shah J, Leboeuf R, Ghossein R, Gonen M, Brokhin M, Omry G, Fagin JA, Shaha A. Estimating risk of recurrence in differentiated thyroid cancer after total thyroidectomy and radioactive iodine remnant ablation: using response to therapy variables to modify the initial risk estimates predicted by the new American Thyroid Association staging system. Thyroid. 2010, 20:1341-1349.
