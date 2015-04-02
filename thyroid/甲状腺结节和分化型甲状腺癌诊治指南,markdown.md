@@ -1,8 +1,8 @@
 Title:    甲状腺结节和分化型甲状腺癌诊治指南  
 Author:   mengdream  
-Date:     March 31, 2015  
-Comment:  把2012年的指南变成电子书的形式，便于查看和索引。 
-          
+Date:     April 1, 2015  
+Comment:  把2012年的中国甲状腺结节和分化型甲状腺癌的指南变成电子书的形式，便于阅读和查找。 
+
 # 甲状腺结节和分化型甲状腺癌诊治指南
 
 中华医学会内分泌学分会
@@ -15,12 +15,36 @@ Comment:  把2012年的指南变成电子书的形式，便于查看和索引。
 
 2012年8月8日
 
-## 编审委员会
+##  前记 
+这个指南的原生PDF版本存在自己的手机里面已经很久了，由于PDF是适合A4纸打印的，放在在手机里面查看非常不方便，于是萌生了念头——把它变成适合手机、Kindle等设备查看的电子书。
 
-### 主编
+本来以为直接用Markdown写好后转换成电子书就可以了，但是这样的专业文献和普通的文本不同，有特殊的要求，而且没有现成的教程。所以自己尝试使用了Ulysses、Marked 2、Gitbook、Pandoc、Scrivener等等诸多工具，前后折腾了半个月时间，花了不少买软件的钱和自己的休息时间，期间甚至还想放弃了，终于在昨天最终找到了合适的方法，转换出来的效果基本达到了要求：
+
+- 支持复杂表格 
+- 有参考文献，点击后可以直接跳转
+- 支持内部链接，点击后可以直接跳转
+
+在排版上面还是有很多的改进空间，但是这些都是需要时间和精力慢慢来做的。现在经历的事情多了，也就慢慢不那么完美主义了，先发布出来，以后可以慢慢改进。
+
+这本书至因为放在[Selfstore.io](https://selfstore.io/products/316) 上面卖2.99元，是因为花了很多成本来转换格式，所以如果你是从上面购买的话，非常感谢你的认可和支持。另一方面，通过这个渠道还能收到电子书的版本更新。
+
+如果你对这本电子书有任何意见和建议，或者你对使用Markdown来转换医学指南到电子书感兴趣，欢迎和我联系，我的微信和twitter是mengdream。我还在[Github上面建立了一个项目](https://github.com/mengdream/ChineseMedicalGuideline)。
+
+最后要非常感谢这本指南的编著者，将如此专业的信息组织的这么缜密，希望今后不仅能提供pdf，还能有epub、mobi等电子书版本，这样就不用费力转换格式了。
+
+最后祝你阅读愉快！
+
+mengdream
+
+2015-04-01
+
+
+## 编审委员会  
+
+### 主编 
 滕卫平 刘永锋 高明 黄钢 
 
-### 副主编
+### 副主编 
 赵家军 单忠艳 吴毅 蒋宁一 
 
 ### 编写委员会(按姓氏拼音排序)
@@ -946,3 +970,4 @@ DTC患者的伴发疾病：由于某些伴发疾病（如心脏疾病、其他�
 [^126]: Durante C, Haddy N, Baudin E, Leboulleux S, Hartl D, Travagli JP, Caillou B, Ricard M, Lumbroso JD, De Vathaire F, Schlumberger M. Long term outcome of 444 patients with distant metastases from papillary and follicular thyroid carcinoma: benefits and limits of radioiodine therapy. J Clin Endocrinol Metab. 2006, 92:450-455.
 [^127]: Tuttle RM. Risk-adapted management of thyroid cancer. Endocr Pract. 2008, 14:764-774.
 [^128]: Tuttle RM, Tala H, Shah J, Leboeuf R, Ghossein R, Gonen M, Brokhin M, Omry G, Fagin JA, Shaha A. Estimating risk of recurrence in differentiated thyroid cancer after total thyroidectomy and radioactive iodine remnant ablation: using response to therapy variables to modify the initial risk estimates predicted by the new American Thyroid Association staging system. Thyroid. 2010, 20:1341-1349.
+
